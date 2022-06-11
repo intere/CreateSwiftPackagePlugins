@@ -10,5 +10,5 @@ public struct MyLibrary {
 import Foundation
 
 public func GetLocalizedString() -> String {
-    return NSLocalizedString( "World", bundle: .module, comment: "A comment about the localizable string")
+    return NSLocalizedString( "🌎", bundle: .module, comment: "A comment about the localizable string")
 }
